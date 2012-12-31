@@ -23,8 +23,8 @@ Usage
 
 put a shortcut icon of 'renamex.exe' to
 
-    - (Windows7) `C:\Users\<YOUR USERNAME>\AppData\Roaming\Microsoft\Windows\SendTo`
-    - (WindowsXP) `C:\Documents and Settings\<YOUR USERNAME>\SendTo`
+- (Windows7) `C:\Users\<YOUR USERNAME>\AppData\Roaming\Microsoft\Windows\SendTo`
+- (WindowsXP) `C:\Documents and Settings\<YOUR USERNAME>\SendTo`
 
 ![SendTo Folder](http://img.f.hatena.ne.jp/images/fotolife/i/itouhiro/20121231/20121231103044.gif)
 
@@ -35,7 +35,7 @@ put a shortcut icon of 'renamex.exe' to
 - right-click -> SendTo -> renamex
 
 
-### renamex files to delete '.xx'
+### rename files to delete '.xx'
 
 - select files in some filer (like Explorer)
 - right-click -> SendTo -> renamex
